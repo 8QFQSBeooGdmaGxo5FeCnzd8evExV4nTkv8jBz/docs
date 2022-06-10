@@ -4,12 +4,8 @@
 
 ## Featured Project
 
-* [🖱 Apply to earn](featured-project/apply-to-earn/README.md)
-  * [Desktop Browser](featured-project/apply-to-earn/desktop-browser.md)
-  * [Mobile Dapps](featured-project/apply-to-earn/mobile-dapps.md)
-* [🧑🤝🧑 Referr to earn](featured-project/referr-to-earn/README.md)
-  * [Desktop Browser](featured-project/referr-to-earn/desktop-browser.md)
-  * [Mobile Dapps](featured-project/referr-to-earn/mobile-dapps.md)
+* [🖱 Apply to earn](featured-project/apply-to-earn.md)
+* [🧑🤝🧑 Referr to earn](featured-project/referr-to-earn.md)
 * [💰 Stake to earn](featured-project/stake-to-earn/README.md)
   * [Deposit/Stake](featured-project/stake-to-earn/deposit-stake.md)
   * [Withdraw / Unstake](featured-project/stake-to-earn/withdraw-unstake.md)
