@@ -25,6 +25,27 @@ This is the details how to do apply to earn in desktop browser.
 {% endtab %}
 
 {% tab title="Mobile" %}
+This is the details how to do apply to earn in mobile using Trustwallet.
+
+1. Open Trustwallet Application, if you don't have it, please install it from playstore/appstore.&#x20;
+
+**Android:** [**https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp\&hl=in\&gl=US**](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp\&hl=in\&gl=US)****
+
+**IOS:** [**https://apps.apple.com/us/app/trust-crypto-bitcoin-wallet/id1288339409**](https://apps.apple.com/us/app/trust-crypto-bitcoin-wallet/id1288339409)****
+
+2\. Open Dapps and enter motoran.net
+
+![](../.gitbook/assets/twmoto.png)
+
+3\. Change network to Smart Chain
+
+![](../.gitbook/assets/mototrust1.png) ![](../.gitbook/assets/mototrust3.png) ![](../.gitbook/assets/mototrust4.png)
+
+
+
 
 {% endtab %}
 {% endtabs %}
+
+
+
