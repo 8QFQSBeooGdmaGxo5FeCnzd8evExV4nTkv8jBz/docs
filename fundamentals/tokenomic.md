@@ -1,6 +1,6 @@
 # 📊 Tokenomic
 
-![](<../.gitbook/assets/Total supply 100.000.000 $moto (1).png>)
+![](<../.gitbook/assets/Total supply 100.000.000 $moto (2).png>)
 
 Motoran smartcontract: **0x3585eA581B2AEA42Ec231cFAab4F870De26D68dE**
 
