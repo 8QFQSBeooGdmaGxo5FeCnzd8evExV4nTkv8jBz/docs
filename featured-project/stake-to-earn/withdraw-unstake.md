@@ -2,6 +2,8 @@
 
 {% tabs %}
 {% tab title="Desktop Browser" %}
+This is the details how to do withdraw in desktop browser.
+
 1. Click the <mark style="color:orange;">**`WITHDRAW`**</mark> button to unstake ![](../../.gitbook/assets/logo-moto-3d-right-16px.png)MOTO.
 
 ![](../../.gitbook/assets/wdbutton.png)

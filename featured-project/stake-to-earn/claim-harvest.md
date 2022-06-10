@@ -2,6 +2,8 @@
 
 {% tabs %}
 {% tab title="Desktop Browser" %}
+This is the details how to do harvest in desktop browser.
+
 1. Click the <mark style="color:orange;">**`HARVEST`**</mark> button to claim ![](../../.gitbook/assets/logo-moto-3d-right-16px.png)MOTO as reward staking.
 
 ![](../../.gitbook/assets/harvestbutton.png)

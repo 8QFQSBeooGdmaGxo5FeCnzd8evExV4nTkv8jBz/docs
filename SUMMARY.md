@@ -11,6 +11,7 @@
   * [Desktop Browser](featured-project/referr-to-earn/desktop-browser.md)
   * [Mobile Dapps](featured-project/referr-to-earn/mobile-dapps.md)
 * [💰 Stake to earn](featured-project/stake-to-earn/README.md)
+  * [Deposit/Stake](featured-project/stake-to-earn/deposit-stake.md)
   * [Withdraw / Unstake](featured-project/stake-to-earn/withdraw-unstake.md)
   * [Claim / Harvest](featured-project/stake-to-earn/claim-harvest.md)
 * [📲 Moto Mining App](featured-project/moto-mining-app.md)
