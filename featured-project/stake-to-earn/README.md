@@ -10,7 +10,7 @@ Penalty fee for early unstake is 1% send back to staking pool.
 
 {% tabs %}
 {% tab title="Desktop" %}
-{% embed url="https://bscscan.com" %}
+[https://bscscan.com/address/0x3585eA581B2AEA42Ec231cFAab4F870De26D68dE](https://bscscan.com/address/0x3585eA581B2AEA42Ec231cFAab4F870De26D68dE)
 {% endtab %}
 
 {% tab title="Mobile" %}
