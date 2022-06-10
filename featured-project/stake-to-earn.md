@@ -33,7 +33,17 @@ APR (Annual Percentage Rate) is 15%.
 
 ![](../.gitbook/assets/deposmodal2.png)
 
+6\. After submitting the amount then click the deposit button and metamask will ask for confirmation and you have to pay some gas fees. after that all the process of deposit / stake ![](../.gitbook/assets/logo-moto-3d-right-16px.png)MOTO is complete.
 
+![](../.gitbook/assets/deposmeta.png)
+
+![](../.gitbook/assets/deposproced.png)
+
+![](../.gitbook/assets/depossucced.png)
+
+7\. Done
+
+![](../.gitbook/assets/deposreview.png)
 {% endtab %}
 
 {% tab title="Mobile" %}
