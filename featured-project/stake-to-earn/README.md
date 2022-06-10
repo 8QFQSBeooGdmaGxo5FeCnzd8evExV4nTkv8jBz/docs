@@ -1,6 +1,6 @@
 # 💰 Stake to earn
 
-![](../.gitbook/assets/s2e.png)
+![](../../.gitbook/assets/s2e.png)
 
 ## Stake to earn concept
 

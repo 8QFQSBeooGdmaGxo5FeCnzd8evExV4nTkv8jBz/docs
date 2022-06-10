@@ -1,6 +1,6 @@
 # 🧑🤝🧑 Referr to earn
 
-![](<../.gitbook/assets/Copy of Untitled (700 × 200 px).png>)
+![](<../../.gitbook/assets/Copy of Untitled (700 × 200 px).png>)
 
 ## Referr to earn concept
 

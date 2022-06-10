@@ -12,6 +12,7 @@
 ### Q2 Phase
 
 * [x] Launch Staking Website
+* [x] Stake to earn configuration
 * [x] Reward Staking Pool configuration
 * [x] Staking smartcontract deployed
 
