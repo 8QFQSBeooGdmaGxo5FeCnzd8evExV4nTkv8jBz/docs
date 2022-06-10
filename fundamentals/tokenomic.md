@@ -4,6 +4,8 @@
 
 Motoran smartcontract: **0x3585eA581B2AEA42Ec231cFAab4F870De26D68dE**
 
+{% embed url="https://bscscan.com/address/0x3585eA581B2AEA42Ec231cFAab4F870De26D68dE" %}
+
 | Contract Distribution / Private sale | 50 %  | 50.000.000 $MOTO  |
 | ------------------------------------ | ----- | ----------------- |
 | Reward Pool                          | 20 %  | 20.000.000 $MOTO  |
