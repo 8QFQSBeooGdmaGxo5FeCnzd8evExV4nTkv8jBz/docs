@@ -39,9 +39,15 @@ This is the details how to do apply to earn in mobile using Trustwallet.
 
 3\. Change network to Smart Chain
 
-![](../.gitbook/assets/mototrust1.png) ![](../.gitbook/assets/mototrust3.png) ![](../.gitbook/assets/mototrust4.png)
+![](../.gitbook/assets/mototrust1.png)
 
+![](../.gitbook/assets/mototrust3.png)
 
+![](../.gitbook/assets/mototrust4.png)
+
+4\. Connect Wallect
+
+5\. Pay Gass Fee
 
 
 {% endtab %}
