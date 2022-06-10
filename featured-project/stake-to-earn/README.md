@@ -14,6 +14,6 @@ Penalty fee for early unstake is 1% send back to staking pool.
 {% endtab %}
 
 {% tab title="Mobile" %}
-
+{% embed url="https://pancakeswap.finance" %}
 {% endtab %}
 {% endtabs %}
