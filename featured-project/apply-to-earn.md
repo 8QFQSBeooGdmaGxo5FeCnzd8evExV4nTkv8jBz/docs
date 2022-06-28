@@ -49,9 +49,11 @@ This is the details how to do apply to earn in mobile using Trustwallet.
 
 5\. Pay Gass Fee
 
-
+6\. Done
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
