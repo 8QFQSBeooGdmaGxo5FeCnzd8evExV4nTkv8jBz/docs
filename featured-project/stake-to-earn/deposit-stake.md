@@ -39,7 +39,7 @@ APR (Annual Percentage Rate) is 15%.
 {% endtab %}
 
 {% tab title="Mobile" %}
-{% embed url="https://pancakeswap.finance" %}
+
 {% endtab %}
 {% endtabs %}
 
